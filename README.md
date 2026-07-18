@@ -1,2 +1,0 @@
-# random
-first few codes
