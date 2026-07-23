@@ -17,7 +17,7 @@ def take():
                 cart.update({item.capitalize(): price})
         else:
             print("---------------------")
-            print("Item must contain only alphabets.")
+            print("Item must contain only alphabets. Re-enter item.")
             print("---------------------")
             continue
     return cart 
